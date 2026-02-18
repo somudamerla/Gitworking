@@ -7,3 +7,5 @@ SELECT * FROM Tables;
 SELECT * FROM Devids;
 
 SELECT * FROM Dashers;
+
+console.log("Hi!, I'm Soma");
