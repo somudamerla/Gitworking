@@ -3,3 +3,7 @@ SELECT * FROM Employees;
 SELECT * FROM Customers;
 
 SELECT * FROM Tables;
+
+SELECT * FROM Devids;
+
+SELECT * FROM Dashers;
